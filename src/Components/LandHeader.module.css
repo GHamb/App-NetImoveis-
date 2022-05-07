@@ -1,0 +1,39 @@
+.app_header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100vw;
+    height: 10vh;
+    background-color:orange ;
+    border-bottom: solid #000000 1px;
+  
+}
+
+.logo_image{
+    height: 100%;
+    width: 15%;
+    display: flex;
+    align-items: center;
+    margin-left: 5px;
+}
+
+.content{
+    height: 100%;
+    width: 15%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.space{
+    margin: 4px;
+}
+.image_header{
+    width: 90px;
+    height: 90px;
+    border-radius: 2000px;
+}

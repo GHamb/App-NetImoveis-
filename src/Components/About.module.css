@@ -1,0 +1,37 @@
+.container_about{
+    width: 100vw;
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.cards{
+    width: 32%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #ecb653;
+    align-items: center;
+    flex-wrap: wrap;
+    box-shadow:  5px 3px 3px #888888;;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.cards:hover{
+    
+    cursor: pointer;
+    background-color: #e0a22e;
+    
+}
+.icons{
+    width: 60px; 
+}
+
+.paragraf{
+    text-align: center;
+    color: white;
+}
+
