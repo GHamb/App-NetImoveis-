@@ -8,10 +8,10 @@ const LandHeader = () => {
             <img src={Logo} alt="" className={styles.image_header} />
         </div>
         <div className={styles.content}>
-            <h3 className ={styles.space}>Home</h3>
-            <h3 className ={styles.space}>Sobre</h3>
-            <h3 className ={styles.space}>Serviços</h3>
-            <h3 className ={styles.space}>Contato</h3>
+            <a className={styles.space} href='#'><h3>Home</h3></a>
+            <a className={styles.space} href='#sobre'><h3>Sobre</h3></a>
+            <a className={styles.space} href='#servicos'><h3>Serviços</h3></a>
+            <a className={styles.space} href='#contato'><h3>Contato</h3></a>
         </div>
     </div>
   )

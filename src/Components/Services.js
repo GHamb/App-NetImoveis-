@@ -12,7 +12,10 @@ const Services = () => {
 
   return (
 
-    <div className={styles.container_services}>
+    <div id='servicos'className={isOpen 
+      ? styles.container_services
+      : styles.container_services_closed} 
+      >
       <button onClick={() => {
         setOpen(!isOpen)
       }} className={styles.services_button}> Serviços ⬇</button>

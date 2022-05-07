@@ -9,6 +9,17 @@
     
 }
 
+.container_services_closed{
+    width: 100vw;
+    height: 10vh;
+    margin-top: 2vh;
+    display: flex;
+    align-items: center;
+    justify-content: initial;
+    flex-direction: column;
+    
+}
+
 .services_button{
     width: 10vw;
     height: 4vh;

@@ -9,7 +9,7 @@ import foto4 from "../assets/foto4.jpg"
 
 const Home = () => {
   return (
-    <div className={styles.carousel}>
+    <div className={styles.carousel} id="#">
         <div class="carousel-wrapper">
             
             <Carousel infiniteLoop width="500px" autoPlay>

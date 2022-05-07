@@ -7,7 +7,7 @@ import icon_site from "../assets/site.png"
 
 const About = () => {
   return (
-    <div className={styles.container_about}>
+    <div className={styles.container_about} id="sobre">
         <div className={styles.cards}>
             <h1>Necessidade</h1>
             <img src={icon_casa} alt="" className={styles.icons}/>

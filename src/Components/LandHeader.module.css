@@ -31,6 +31,13 @@
 
 .space{
     margin: 4px;
+    text-decoration: none;
+    color:#000000
+
+}
+
+.space:click{
+    color:#000000
 }
 .image_header{
     width: 90px;
