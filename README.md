@@ -1,5 +1,5 @@
 
-# Teste NetImveis 
+# Teste NetImóveis 
 
 
 Landing Page feita para teste front-end 
