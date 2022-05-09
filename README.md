@@ -12,7 +12,6 @@ Landing Page feita para teste front-end
 
 ## Rodando Apenas Localmente
 
-Clone o projeto dentro de um diretorio qualquer -> example -> anyDirectory/<git clone aqui>
 
 ```bash
   git clone https://github.com/GHamb/App-NetImoveis-.git
@@ -21,7 +20,7 @@ Clone o projeto dentro de um diretorio qualquer -> example -> anyDirectory/<git 
 entre no projeto 
 
 ```bash
-  cd anyDirectory
+  cd App-NetImoveis-
 ```
 
 Instale as dependências
